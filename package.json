@@ -10,8 +10,5 @@
   },
   "author": {
     "name": "Daniel Basedow"
-  },
-  "dependencies": {
-    "react-native": "*"
   }
 }

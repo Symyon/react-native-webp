@@ -9,7 +9,7 @@ All that for a succesfull installation on a iOS device of a project that was det
 
 # Installation
 
-1. ```npm install https://github.com/Symyon/react-native-webp --save```
+1. ```yarn add https://github.com/Symyon/react-native-webp```
 2. ```react-native link```
 3. Open your project in xcode
 4. Right click your project root and select "Add Files to ..."
